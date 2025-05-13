@@ -39,3 +39,7 @@ npm install
 node server/index.js
 npm run dev
 http://localhost:5173/
+```
+![Screenshot (466)](https://github.com/user-attachments/assets/54a424d9-6e14-416a-9677-19a298e9e5d9)
+
+ 
